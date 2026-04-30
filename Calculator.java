@@ -1,8 +1,8 @@
 public class Calculator {
     public static void main(String[] args) {
 
-        double num1 = 10;
-        double num2 = 5;
+        double num1 = 12;
+        double num2 = 10;
 
         System.out.println("Addition: " + (num1 + num2));
         System.out.println("Subtraction: " + (num1 - num2));
