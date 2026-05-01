@@ -1,7 +1,7 @@
 public class Calculator {
     public static void main(String[] args) {
 
-        double num1 = 18;
+        double num1 = 20;
         double num2 = 6;
 
         System.out.println("Addition: " + (num1 + num2));
